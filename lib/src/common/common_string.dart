@@ -1,0 +1,17 @@
+const transaction_screen = 'MY TRANSACTION';
+const last_transaction = 'Last 10 Transactions';
+const search_by_duration = 'Search by Duration';
+const last_10days = 'Last 10';
+const last_7days = 'Last 7 Days';
+const last_30days = 'Last 30 Days';
+const last_180days = 'Last 180 Days';
+const searchByDate = 'Search By Date Range';
+const selectedDateRange = 'Select Date Range';
+const transaction_type = 'Transaction Type';
+const all = 'All';
+const deposit = 'Deposit';
+const withdrawal = 'Withdrawal';
+const bonus = 'Bonus';
+const game_play = 'Game Play';
+const winning = 'Winning';
+const noTransaction = 'No Transaction Done';
